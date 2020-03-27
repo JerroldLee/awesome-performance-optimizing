@@ -4,6 +4,8 @@
 # 小程序
 > 京东大咖实战分享：小程序性能优化实践 https://mp.weixin.qq.com/s/Iz3FheStNj6B_Al1bjErYg
 
+> 京东京喜小程序的高性能打造之路：https://mp.weixin.qq.com/s/JF5VnFtZSOyeH4Bf-HjZ7A
+
 # 混合APP
 
 # PC Web
