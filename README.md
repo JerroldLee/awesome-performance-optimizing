@@ -16,6 +16,8 @@
 
 > 爱奇艺直播WebAssembly优化之路 https://mp.weixin.qq.com/s?__biz=MzIyMzAwNzExNg==&mid=2650864621&idx=2&sn=c35417f39b63012eeb929d3335149a9d
 
+> 前端tree组件，10000个树节点，从14.65s到0.49s https://mp.weixin.qq.com/s/6GIuwqE_ZZmCSvL3RQA6JQ
+
 # 移动Web
 > H5秒开方案大全 https://mp.weixin.qq.com/s?__biz=MzIyMzAwNzExNg==&mid=2650864621&idx=1&sn=55e6759c535be668afe9eae0632200a9
 
