@@ -26,3 +26,5 @@
 > H5秒开方案大全 https://mp.weixin.qq.com/s?__biz=MzIyMzAwNzExNg==&mid=2650864621&idx=1&sn=55e6759c535be668afe9eae0632200a9
 
 > 考拉前端骨架屏生成技术揭秘 https://mp.weixin.qq.com/s/4DAlmuMzyNjDKvaoOU1GoA
+
+> 使用 Preload/Prefetch 优化你的应用 https://zhuanlan.zhihu.com/p/48521680
