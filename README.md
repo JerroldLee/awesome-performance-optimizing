@@ -1,6 +1,8 @@
 # awesome-performance-optimizing
 实用前端性能优化方案
 
+# Web性能优化基础知识 https://juejin.im/user/5df79a0cf265da33ed41225d/posts
+
 # 小程序
 > 京东大咖实战分享：小程序性能优化实践 https://mp.weixin.qq.com/s/Iz3FheStNj6B_Al1bjErYg
 
